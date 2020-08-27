@@ -1,11 +1,11 @@
-# Le projet
+# The project
 
-Création d'une landing page sur github à partir du template de ![flexdinesh](https://github.com/flexdinesh/dev-landing-page#github-pages)
+Creation of a landing page on github from a template of ![flexdinesh](https://github.com/flexdinesh/dev-landing-page#github-pages)
 
 ## Why?
 
-Expérimenter l'usage de GitHub et mettre en place un espace de présentation qui évoluera tout le long de la formation chez **BeCode**
+Experiment with the use of GitHub and set up a presentation space that will evolve throughout the training at ** BeCode **
 
 ## Result
 
-La landing page tel qu'elle est actuellement: ![Delahay Joann](https://delahayjoann.github.io/)
+The landing page as it is currently: ![Delahay Joann](https://delahayjoann.github.io/)
