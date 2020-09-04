@@ -1,3 +1,6 @@
 [submodule "Learning-Environment"]
 	path = Learning-Environment
 	url = https://github.com/DelahayJoann/Learning-Environment.git
+[submodule "safetysnails"]
+	path = safetysnails
+	url = https://github.com/DelahayJoann/safetysnails.git
