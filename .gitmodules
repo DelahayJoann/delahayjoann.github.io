@@ -4,3 +4,6 @@
 [submodule "safetysnails"]
 	path = safetysnails
 	url = https://github.com/DelahayJoann/safetysnails.git
+[submodule "Mon-CV"]
+	path = Mon-CV
+	url = https://github.com/DelahayJoann/Mon-CV.git
